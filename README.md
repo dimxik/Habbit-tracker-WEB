@@ -1,6 +1,6 @@
 
-Habbit Tracker WEB
-## Getting Started
+
+## Habbit Tracker WEB
 ![image](https://github.com/user-attachments/assets/eb34e988-37b8-42f3-a764-c722d7062c39)
 ![image](https://github.com/user-attachments/assets/dda84dbc-cf02-451e-9be8-3c1633432f14)
 ![image](https://github.com/user-attachments/assets/edc07b8c-7193-483b-b8d1-1d7d8f50ec80)
